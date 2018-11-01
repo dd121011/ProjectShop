@@ -7,6 +7,3 @@
   </parent>
   <artifactId>shop-pojo</artifactId>
 </project>
-Failed to execute goal on project shop-manager-web: Could not resolve dependencies for project
- com.newbie.shop:shop-manager-web:war:0.0.1-SNAPSHOT: Failure to find com.alibaba:dubbo:jar:2.8.4 in 
- https://repo.maven.apache.org/maven2 was cached in the local repository, resolution will not be reattempted until the update interval of central has elapsed or updates are forced -> [Help 1]
